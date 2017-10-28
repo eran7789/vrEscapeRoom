@@ -1,0 +1,46 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+    Driver:   10.18.10.4358
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Unity3d Escape\Unity3d Escape\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Unity3d Escape\Unity3d Escape\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Unity3d Escape\Unity3d Escape\game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Unity3d Escape\Unity3d Escape\game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Unity3d Escape\Unity3d Escape\game_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Unity3d Escape\Unity3d Escape\game_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Unity3d Escape\Unity3d Escape\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Unity3d Escape\Unity3d Escape\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Unity3d Escape\Unity3d Escape\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Unity3d Escape\Unity3d Escape\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
+Platform assembly: C:\Unity3d Escape\Unity3d Escape\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Unity3d Escape\Unity3d Escape\game_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 50Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.108181 ms
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 389)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3ed8 -> priority: 1 
+  Thread -> id: 219c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.265141 ms
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 389)
+
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1992.
+Total: 0.633162 ms (FindLiveObjects: 0.116053 ms CreateObjectMapping: 0.072632 ms MarkObjects: 0.390792 ms  DeleteObjects: 0.052500 ms)
+
+Platform assembly: C:\Unity3d Escape\Unity3d Escape\game_Data\Managed\Boo.Lang.dll (this message is harmless)
